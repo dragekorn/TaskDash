@@ -1,0 +1,3 @@
+[submodule "inspectrum_tasks"]
+	path = inspectrum_tasks
+	url = https://github.com/dragekorn/inspectrum_tasks.git
